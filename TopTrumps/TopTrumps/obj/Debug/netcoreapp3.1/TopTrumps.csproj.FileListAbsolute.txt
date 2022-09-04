@@ -1,0 +1,14 @@
+C:\Users\lanyo\source\repos\TopTrumps\TopTrumps\bin\Debug\netcoreapp3.1\TopTrumps.exe
+C:\Users\lanyo\source\repos\TopTrumps\TopTrumps\bin\Debug\netcoreapp3.1\TopTrumps.deps.json
+C:\Users\lanyo\source\repos\TopTrumps\TopTrumps\bin\Debug\netcoreapp3.1\TopTrumps.runtimeconfig.json
+C:\Users\lanyo\source\repos\TopTrumps\TopTrumps\bin\Debug\netcoreapp3.1\TopTrumps.runtimeconfig.dev.json
+C:\Users\lanyo\source\repos\TopTrumps\TopTrumps\bin\Debug\netcoreapp3.1\TopTrumps.dll
+C:\Users\lanyo\source\repos\TopTrumps\TopTrumps\bin\Debug\netcoreapp3.1\TopTrumps.pdb
+C:\Users\lanyo\source\repos\TopTrumps\TopTrumps\obj\Debug\netcoreapp3.1\TopTrumps.csproj.AssemblyReference.cache
+C:\Users\lanyo\source\repos\TopTrumps\TopTrumps\obj\Debug\netcoreapp3.1\TopTrumps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lanyo\source\repos\TopTrumps\TopTrumps\obj\Debug\netcoreapp3.1\TopTrumps.AssemblyInfoInputs.cache
+C:\Users\lanyo\source\repos\TopTrumps\TopTrumps\obj\Debug\netcoreapp3.1\TopTrumps.AssemblyInfo.cs
+C:\Users\lanyo\source\repos\TopTrumps\TopTrumps\obj\Debug\netcoreapp3.1\TopTrumps.csproj.CoreCompileInputs.cache
+C:\Users\lanyo\source\repos\TopTrumps\TopTrumps\obj\Debug\netcoreapp3.1\TopTrumps.dll
+C:\Users\lanyo\source\repos\TopTrumps\TopTrumps\obj\Debug\netcoreapp3.1\TopTrumps.pdb
+C:\Users\lanyo\source\repos\TopTrumps\TopTrumps\obj\Debug\netcoreapp3.1\TopTrumps.genruntimeconfig.cache

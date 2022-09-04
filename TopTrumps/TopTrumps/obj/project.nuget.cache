@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JYIsJEaUTbM7H8xrK8WicbwdZ8NOhWtO+2F/kG2yH5riiyZtrHv2Gb8G8gykTB6mUiP8DE1jVcU2JdLNzjACbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lanyo\\source\\repos\\TopTrumps\\TopTrumps\\TopTrumps.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lanyo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
